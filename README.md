@@ -32,7 +32,7 @@ I've started rewriting it from scratch a few weeks ago, and this is where we sta
 
 ## Usage
 Requirements:
-- Godot version 3.3 or higher (No guarantee for the future 4.0, for previous versions or for betas/alphas) Side note as a tester 4.0 DOES NOT WORK with this as func selection and var selection get mixed and in later versions of godot doesn't like it
+- Godot version 3.3 or higher (No guarantee for the future 4.0, for previous versions or for betas/alphas) Side note as a tester 4.0 DOES NOT WORK with this as func selection and var selection get mixed and in later versions of godot
 
 1. Download this repository
 2. Place the folder containing the project somewhere you like
