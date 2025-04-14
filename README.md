@@ -62,3 +62,5 @@ Same goes for the fonts included:
 ## Creator!
 _Discord tag:_ **samuelwolfang**
 _Email:_ [soupsam02@gmail.com](mailto:soupsam02@gmail.com)
+## Who am I?
+Im an idiot that got bored Don't get your hopes up theres a non zero chance I bail on this.
