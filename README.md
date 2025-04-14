@@ -1,4 +1,4 @@
-mRUN IT BACK!
+RUN IT BACK!
 
 # _UNDOTALE_
 An UNDERTALE Engine recreated inside of Godot!
@@ -32,12 +32,11 @@ I've started rewriting it from scratch a few weeks ago, and this is where we sta
 
 ## Usage
 Requirements:
-- Godot version 3.3 or higher (No guarantee for the future 4.0, for previous versions or for betas/alphas)
-- That's it!
+- Godot version 3.3 or higher (No guarantee for the future 4.0, for previous versions or for betas/alphas) Side note as a tester 4.0 DOES NOT WORK with this as func selection and var selection get mixed and in later versions of godot doesn't like it
 
 1. Download this repository
 2. Place the folder containing the project somewhere you like
-3. Open Godot
+3. Go here https://godotengine.org/download/archive/ and install godot verison 3.3
 4. Click on "Import" from the menu on the right
 5. Select the .godot project file inside of the folder you downloaded
 6. Have fun messing around!
@@ -49,6 +48,7 @@ Selling a compiled version of this project as is without removing UNDERTALE asse
 Most of the assets were taken or copied from them and are therefore not mine.
 Only thing I have to take credit for is the code I wrote and nothing else.
 [Where I got the sprites.](https://www.spriters-resource.com/pc_computer/undertale/)
+-yeah wut he said.-
 
 Same goes for the fonts included:
 | Font | Author |
