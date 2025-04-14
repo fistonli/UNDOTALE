@@ -48,7 +48,7 @@ Selling a compiled version of this project as is without removing UNDERTALE asse
 Most of the assets were taken or copied from them and are therefore not mine.
 Only thing I have to take credit for is the code I wrote and nothing else.
 [Where I got the sprites.](https://www.spriters-resource.com/pc_computer/undertale/)
--yeah wut he said.-
+--yeah wut he said.--
 
 Same goes for the fonts included:
 | Font | Author |
