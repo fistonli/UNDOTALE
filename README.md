@@ -59,8 +59,6 @@ Same goes for the fonts included:
 | Pixel Comic Sans | by [ColorSwitchFan25](https://fontstruct.com/fontstructions/show/1534860/pixel-comic-sans-undertale-sans-font) |
 | UT HP Font | by [SevenC](is.gd/uthpfont) |
 
-## CONTACTS
-In case you have any issue you would like to disclose, down here you can find several contact info.
-
+##Creator!
 _Discord tag:_ **samuelwolfang**
 _Email:_ [soupsam02@gmail.com](mailto:soupsam02@gmail.com)
